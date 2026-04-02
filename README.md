@@ -59,14 +59,8 @@ Downloaded from [Inside Airbnb — Boston](http://insideairbnb.com/boston) (snap
 ---
 
 
-## Deploy to Render (free tier)
-
-1. Push this repo to GitHub
-2. Go to [render.com](https://render.com) → **New Web Service** → connect your repo
-3. Set:
-   - **Build command:** `pip install -r requirements.txt`
-   - **Start command:** `gunicorn dashboard:server`
-4. Upload your data files as a [Render Disk](https://render.com/docs/disks) or host them on a public URL and update `DATA_DIR` in `dashboard.py`
+## View it on Render
+https://boston-airbnb-dashboard.onrender.com/
 
 ---
 
