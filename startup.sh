@@ -22,4 +22,4 @@ else
     echo "Data files already present — skipping download."
 fi
 
-exec gunicorn dashboard:server --bind 0.0.0.0:$PORT
+exec gunicorn dashboard:server --bind 0.0.0.0:$PORT --timeout 120
