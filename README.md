@@ -58,24 +58,6 @@ Downloaded from [Inside Airbnb — Boston](http://insideairbnb.com/boston) (snap
 
 ---
 
-## Run Locally
-
-```bash
-# 1. Clone
-git clone https://github.com/MadisonMLi/boston-airbnb-dashboard.git
-cd boston-airbnb-dashboard
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Add data files to project root (see Data Sources above)
-
-# 4. Launch
-python dashboard.py
-# → Open http://127.0.0.1:8050
-```
-
----
 
 ## Deploy to Render (free tier)
 
@@ -98,4 +80,4 @@ python dashboard.py
 
 ---
 
-*Data Scientist Portfolio Project — Mengyao*
+
