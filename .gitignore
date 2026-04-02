@@ -2,8 +2,9 @@
 *.csv.gz
 listings.csv
 
-# Pre-processed data in data/ IS committed (small aggregates, safe to push)
-# data/ is NOT ignored
+# Pre-processed data — downloaded at runtime via startup.sh (Google Drive)
+# Generate locally by running: python3 preprocess.py
+data/
 
 # Python
 __pycache__/
