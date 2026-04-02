@@ -1,6 +1,9 @@
-# Data files — too large for GitHub (use Git LFS or note in README)
-*.csv
+# Raw data files — too large for GitHub
 *.csv.gz
+listings.csv
+
+# Pre-processed data in data/ IS committed (small aggregates, safe to push)
+# data/ is NOT ignored
 
 # Python
 __pycache__/
