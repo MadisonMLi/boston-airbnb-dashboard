@@ -62,7 +62,7 @@ Downloaded from [Inside Airbnb — Boston](http://insideairbnb.com/boston) (snap
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/boston-airbnb-dashboard.git
+git clone https://github.com/MadisonMLi/boston-airbnb-dashboard.git
 cd boston-airbnb-dashboard
 
 # 2. Install dependencies
