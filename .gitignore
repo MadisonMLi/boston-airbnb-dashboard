@@ -1,0 +1,18 @@
+# Data files — too large for GitHub (use Git LFS or note in README)
+*.csv
+*.csv.gz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
