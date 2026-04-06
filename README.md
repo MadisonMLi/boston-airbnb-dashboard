@@ -2,6 +2,7 @@
 
 > **Interactive Plotly Dash dashboard** exploring Boston's short-term rental market across 25 neighborhoods.
 > Built as a Data Science portfolio project using [Inside Airbnb](http://insideairbnb.com/) open data.
+> View it live on [Render](https://boston-airbnb-dashboard.onrender.com/)!
 
 ![Dashboard Preview](assets/dashboard_preview.png)
 
@@ -56,11 +57,10 @@ Downloaded from [Inside Airbnb — Boston](http://insideairbnb.com/boston) (snap
 > ⚠️ Raw data files are excluded from this repo (`.gitignore`) due to size.
 > Download them directly from [insideairbnb.com/get-the-data](http://insideairbnb.com/get-the-data/) and place them in the project root.
 
----
 
 
-## View it on Render
-https://boston-airbnb-dashboard.onrender.com/
+
+
 
 ---
 
