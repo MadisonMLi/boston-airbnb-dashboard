@@ -1,6 +1,6 @@
 # Boston Airbnb Market Analytics Dashboard
 
-> **Interactive Plotly Dash dashboard** exploring Boston's short-term rental market across 25 neighbourhoods.
+> **Interactive Plotly Dash dashboard** exploring Boston's short-term rental market across 25 neighborhoods.
 > Built as a Data Science portfolio project using [Inside Airbnb](http://insideairbnb.com/) open data.
 
 ![Dashboard Preview](assets/dashboard_preview.png)
